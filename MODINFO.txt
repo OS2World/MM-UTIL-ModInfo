@@ -1,0 +1,22 @@
+This is a [lame] program that will generate information about a
+protracker module.  The best way to use this is like this:
+
+
+modinfo name.mod > name.inf
+
+This will create a happy file named "name.inf" with all the goods in it.
+
+
+modinfo name.mod | more
+
+This is for those in a hurry, and that hate any kind of temp
+file situation happening to them.
+
+This program is extrememly freeware.  Mail to me can get you the source.
+The reason I'm not including it is because I want to see if anyone else
+out there is as bored as I am, or as "into" mod-style music on the PC.
+
+I can always use PAS16 stuff, modules, source for anything, etc.
+
+Captain Sarcastic
+kkoller@nyx.cs.du.edu
